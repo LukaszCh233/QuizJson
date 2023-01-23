@@ -1,0 +1,29 @@
+[
+  {
+    "question1": "Aorta to największa w ciele człowieka:",
+    "answer1": [
+         "żyła",
+         "tętnica"
+    ],
+    "correctAnswer1": "tętnica"
+  },
+  {
+    "question1": "Co powstaje w wyniku fotosyntezy?",
+    "answer1": [
+      "Woda i węglowodany",
+      "Dwutlenek węgla i woda",
+      "Tlen i węglowodany"
+    ],
+    "correctAnswer1": "Tlen i węglowodany"
+  },
+  {
+    "question1": "Które zwierzęta są stałocieplne?",
+    "answer1": [
+      "Wszystkie kręgowce",
+      "Tylko ssaki",
+      "Ssaki i ptaki",
+      "Ryby, gady i ptaki"
+    ],
+    "correctAnswer1": "Ssaki i ptaki"
+  }
+]
