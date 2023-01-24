@@ -2,8 +2,6 @@
 
 import java.util.List;
 
-
-
 public class Question {
 
     public String question1;
@@ -21,7 +19,6 @@ public class Question {
                 ", correctAnswer='" + correctAnswer1 + '\'' +
                 '}';
     }
-
     public Question(String question1, String s, String tętnica) {
     }
 
