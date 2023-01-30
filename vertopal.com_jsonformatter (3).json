@@ -1,30 +1,135 @@
 [
   {
-    "question1": "Aorta to największa w ciele człowieka:",
+    "question1": "Pierwsze prawo Mendla nosi nazwę prawa:",
     "answer1": [
-      "A: żyła",
-      "B: tętnica"
+      "A: współdziałania genów nieallelicznych",
+      "B: dominowania niepełnego",
+      "C: czystości (segregacji) gamet",
+      "D: niezależnego dziedziczenia cech",
+      "E: determinacji płci"
+
     ]
     ,
+    "correctAnswer1": "C"
+  },
+  {
+    "question1": "Jeden z dwóch (lub większej liczby) genów, które wykluczają się wzajemnie w gametach i\nzajmują to samo miejsce w chromosomach homologicznych, to:",
+    "answer1": [
+      "A: diplont",
+      "B: allosom",
+      "C: genom",
+      "D: allel"
+    ],
+    "correctAnswer1": "D"
+  },
+  {
+    "question1": "Komórkę lub organizm, zawierające odmienne allele w danym locus (lub loci) homologicznych\nchromosomów, określamy:",
+    "answer1": [
+      "A: homozygotą",
+      "B: koniugantem",
+      "C: diplontem",
+      "D: haplontem",
+      "E: heterozygotą"
+    ],
+    "correctAnswer1": "E"
+  },
+  { "question1": "W pokoleniu F1 otrzymano fenotypy w stosunku 75:25. Jaki był genotyp rodziców?",
+    "answer1": [
+      "A: heterozygota i homozygota recesywna",
+      "B: heterozygota i homozygota dominująca",
+      "C: homozygota dominująca i homozygota recesywna",
+      "D: dwie homozygoty recesywne",
+      "E: dwie heterozygoty"
+    ],
+    "correctAnswer1": "E"
+  },
+  {
+    "question1": "Po skrzyżowaniu homozygoty i heterozygoty w pokoleniu F1 w fenotypie ujawniają się cechy w\nstosunku liczbowym:",
+    "answer1": [
+      "A: 3:1 lub 1:2",
+      "B: 4:0 lub 2:2",
+      "C: 2:2 i nigdy w żadnym innym",
+      "D: 3:1 lub 2:2",
+      "E: 4:0 lub 1:2"
+    ],
     "correctAnswer1": "B"
   },
   {
-    "question1": "Co powstaje w wyniku fotosyntezy?",
+    "question1": "Podczas krzyżowania homozygoty dominującej z homozygotą recesywną cecha recesywna:",
     "answer1": [
-      "A: Woda i węglowodany",
-      "B: Dwutlenek węgla i woda",
-      "C: Tlen i węglowodany"
+      "A: może ujawnić się w pokoleniu F2",
+      "B: nie ujawnia się fenotypowo w pokoleniu F1, ale może ujawnić się w pokolenu F2",
+      "C: ujawnia się fenotypowo w pokoleniu F1",
+      "D: nie ujawnia się fenotypowo w pokoleniu F1",
+      "E: nie ujawnia się w pokoleniu F2"
     ],
-    "correctAnswer1": "C"
+    "correctAnswer1": "B"
   },
   {
-    "question1": "Które zwierzęta są stałocieplne?",
+    "question1": "Cechę recesywną mogą wykazywać tylko homozygoty, więc w wypadku krzyżowania\nhomozygoty dominującej z homozygotą recesywną w drugim pokoleniu mieszańców F2 cechę\ntą może odznaczać się:",
     "answer1": [
-      "A: Wszystkie kręgowce",
-      "B: Tylko ssaki",
-      "C:Ssaki i ptaki",
-      "D: Ryby, gady i ptaki"
+      "B: 10% osobników",
+      "C: 90% osobników",
+      "D: 75% osobników",
+      "E: 50% osobników"
     ],
-    "correctAnswer1": "C"
+    "correctAnswer1": "A"
+  },
+  {
+    "question1": "Ilu z 200 osobników potomnych będzie miało fenotyp dominujących form rodzicielskich, jeżeli\nskrzyżujemy ze sobą osobniki heterozygotyczne pod względem jednej pary genów?",
+    "answer1": [
+      "A: 25",
+      "B: 100",
+      "C: 200",
+      "D: 150",
+      "E: 50"
+    ],
+    "correctAnswer1": "D"
+  },
+  {
+    "question1": "Ile rodzajów gamet może produkować organizm diploidalny o genotypie AABBCCDdEE?",
+    "answer1": [
+      "A: 8",
+      "B: 4",
+      "C: 32",
+      "D: 2",
+      "E: 64",
+      "F: 16"
+    ],
+    "correctAnswer1": "D"
+  },
+  {
+    "question1": "Jeżeli skrzyżujemy homozygotę dominującą z homozygotą recesywną, to w pokoleniu F1 pojawią się fenotypy:",
+    "answer1": [
+      "A: wszystkie recesywne",
+      "B: 75% dominujących i 25% recesywnych",
+      "C: 25% dominujących i 75% recesywnych",
+      "D: recesywne 50% i dominujące 50%",
+      "E: wszystkie dominujące"
+    ],
+    "correctAnswer1": "E"
+  },
+  {
+    "question1": "Dziedziczenie danej cechy w pokoleniu F2, w przypadku dominacji jednego z genów\n w pokoleniuP, wyraża stosunek liczbowy fenotypów:",
+    "answer1": [
+      "A: 3:1",
+      "B: 2:1:2",
+      "C: 1:2:1",
+      "D: 2:2",
+      "E: 2:1"
+
+    ],
+    "correctAnswer1": "A"
+  },
+  {
+    "question1": "W pokoleniu F1 otrzymano dwie homozygoty różnego rodzaju (recesywną i dominującą)\norazdwie heterozygoty. Wybierz genotyp rodziców:",
+    "answer1": [
+      "A: homozygota dominujaca i heterozygota",
+      "B: dwie heterozygoty",
+      "C: podwójne heterozygoty",
+      "D: dwie homozygoty jednego rodzaju",
+      "E: homozygota recesywna i heterozygota"
+    ],
+    "correctAnswer1": "B"
   }
 ]
