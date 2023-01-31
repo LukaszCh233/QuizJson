@@ -1,0 +1,139 @@
+[
+  {
+    "question1": "Przepona to mięsień płaski oddzielający jamę klatki piersiowej od jamy brzusznej.",
+    "answer1": [
+      "A: Prawda",
+      "B: Fausz"
+    ],
+    "correctAnswer1": "B"
+  },
+  {
+    "question1": "Lizozym został odkryty w 1929 roku przez:",
+    "answer1": [
+      "A: Alexander Fleming",
+      "B: Alfred Russel Wallace",
+      "C: James Cook"
+    ],
+    "correctAnswer1": "A"
+  },
+  {
+    "question1": "Lizozym występuje w:",
+    "answer1": [
+      "A: tkankach różnych narządów",
+      "B: łzach, soku żołądkowym, soku jelitowym",
+      "C: mleku, nasieniu, moczu, żółci",
+      "D: wszystkie odpowiedzi są poprawne",
+      "E: krwi, ślinie, śluzie nosa"
+    ],
+    "correctAnswer1": "D"
+  },
+  {
+    "question1": "Gardło to część:",
+    "answer1": [
+      "A: przewodu pokarmowego",
+      "B: dróg oddechowych",
+      "C: wszystkie odpowiedzi są poprawne"
+    ],
+    "correctAnswer1": "C"
+  },
+  {
+    "question1": "Trzustka to:",
+    "answer1": [
+      "A: gruczoł trawienny",
+      "B: gruczoł dokrewny",
+      "C: wszystkie odpowiedzi są poprawne"
+    ],
+    "correctAnswer1": "C"
+  },
+  {
+    "question1": "Enzymy trawienne to:",
+    "answer1": [
+      "A: pepsyna i katepsyna",
+      "B: lipaza kwas solny i chymozyna",
+      "C: wszystkie odpowiedzi są poprawne"
+    ],
+    "correctAnswer1": "C"
+  },
+  {
+    "question1": "Resorpcja wody i innych składników zachodzi w jelicie:",
+    "answer1": [
+      "A: wszystkie odpowiedzi są poprawne",
+      "B: grubym",
+      "C: cienkim"
+    ],
+    "correctAnswer1": "B"
+  },
+  {
+    "question1": "Błona śluzowa żołądka wytwarza kwaśny sok żołądkowy:",
+    "answer1": [
+      "A: fałsz",
+      "B: prawda"
+    ],
+    "correctAnswer1": "B"
+  },
+  {
+    "question1": "Ile części okrężnicy wyróżniamy ?",
+    "answer1": [
+      "A: 5",
+      "B: 9",
+      "C: 3",
+      "D: 7"
+    ],
+    "correctAnswer1": "C"
+  },
+  {
+    "question1": "Jelito cienkie ma długość:",
+    "answer1": [
+      "A: 10m",
+      "B: 6m",
+      "C: 3m",
+      "D: 15m"
+    ],
+    "correctAnswer1": "B"
+  },
+  {
+    "question1": "Trzustka wytwarza:",
+    "answer1": [
+      "A: insulinę i glukagon",
+      "B: wszystkie odpowiedzi są poprawne",
+      "C: sok trzustkowy i enzymy"
+    ],
+    "correctAnswer1": "B"
+  },
+  {
+    "question1": "Trypsyna,erepsyna i kortyzol są wytwarzane przez trzustkę.",
+    "answer1": [
+      "A: Prawda",
+      "B: Fałsz"
+    ],
+    "correctAnswer1": "B"
+  },
+  {
+    "question1": "Zadaniem śliny jest:",
+    "answer1": [
+      "A: zmiękczanie pokarmu",
+      "B: działanie bakteriobójcze",
+      "C: rozpoczęcie trawienia węglowodanów",
+      "D: wszystkie odpowiedzi są poprawne"
+    ],
+    "correctAnswer1": "D"
+  },
+  {
+    "question1": "Jelito ślepe to część jelita:",
+    "answer1": [
+      "A: grubego",
+      "B: cienkiego",
+      "C: wszystkie odpowiedzi są poprawne"
+    ],
+    "correctAnswer1": "A"
+  },
+  {
+    "question1": "Z jakiego jelita wchłaniane są do krwi cukry proste i aminokwasy, a do limfy kwasy tłuszczowe?",
+    "answer1": [
+      "A: jelita grubego",
+      "B: wszystkie odpowiedzi są poprawne",
+      "C: jelita cienkiego"
+    ],
+    "correctAnswer1": "C"
+  }
+]

@@ -131,5 +131,39 @@
       "E: homozygota recesywna i heterozygota"
     ],
     "correctAnswer1": "B"
+  },
+  {
+    "question1": "Ile rodzajów gamet wytworzy homozygota AABBCC?",
+    "answer1": [
+      "A: 3",
+      "B: 1",
+      "C: 4",
+      "D: 5",
+      "E: 2"
+
+    ],
+    "correctAnswer1": "B"
+  },
+  {
+    "question1": "Heterozygota w dwóch parach genów, której rodzice byli podwójnymi homozygotami AABB i \naabb, wytwarza zwykle tylko gamety:",
+    "answer1": [
+      "A: Ab, aa, Bb, AB",
+      "B: AA, BB, ab, aB",
+      "C: AB, aB, Ab, ab",
+      "D: AA, BB, aa, bb",
+      "E: Aa, Ab, aB, BB"
+    ],
+    "correctAnswer1": "C"
+  },
+  {
+    "question1": "Organizm, będący heterozygotą w trzech parach genów nie leżących na tych samych \nchromosomach, może wytwarzać następującą liczbę różnych gamet:",
+    "answer1": [
+      "A: sześć",
+      "B: cztery",
+      "C: osiem",
+      "D: trzy",
+      "E: dwie"
+    ],
+    "correctAnswer1": "C"
   }
 ]
